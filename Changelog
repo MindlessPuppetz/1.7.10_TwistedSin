@@ -1,0 +1,35 @@
+//changelog from v0.19b(1.7.2) to v0.20a_1.7.10
+
+//changes
+-Modified Lucky Blocks config
+-Modified TiC config a bit.
+
+
+//removals
+-LittleFix
+-Ender Tanks
+--ShetiphanCore (Ender Tanks dependency)
+-Simple Fluid Tanks
+-EnderIO
+-Bedrock Layer
+
+//additions
+-Ender Storage v1.4.4.11
+-Waila Harvestability v1.0.4
+-Advanced Health Options v1.4.1.7
+--CopyCore (Dependency of AHO) v1.2.0.3
+-ZombieAwareness v1.9.2
+--CoroUtil (Dependency of ZombieAwareness) v1.0
+-Thermal Expansion v4.0.0B1-3
+--CoFH Core v3.0.0B1-19
+--CoFH Lib v1.0.0B2-14
+--Thermal Foundation v1.0.0B1-2
+-Minefactory Reloaded v2.8.0RC1-540
+-Nether Ores v2.3.0RC2-76
+-Project Red - Base v4.4.5.44
+-Project Red - Compat v4.4.5.44
+-Project Red - Integration v4.4.5.44
+
+
+//updates
+-Too many to list, basically every mod lol
