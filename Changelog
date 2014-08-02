@@ -1,3 +1,51 @@
+//changelog from v0.20a to v0.21a (1.7.10)
+
+//changes
+-Modified Ruins configs
+-Modified OpenBlocks Configs
+-Recreated configs for Lycanite's as required for latest update.
+-Removed Forestry Trees from MineTweaker recipes.
+-Edit updated config options for Ohairacaine Tweaks
+-Reenabled Balkon's Weaponmod MineTweaker recipes.
+-Removed surface ore-gravel gen.
+-Removed TiC ore gen, using TE ores.
+
+//removals
+-BattleTowers
+-Forestry
+-NEI Forestry
+-Thaumcraft
+-Thaumic Tinkerer
+
+//additions
+-OpenMods v1.3-snapshot-424
+--OpenModsLib v0.6-snapshot-220
+-Hardcore Ender Expansion (pre-release) v1.6.2-pre
+--Java7Checker v1.1
+-ModTweaker v0.5c
+-Balkon's WeaponMod v1.14.2
+-Craft Heraldry v1.1.3
+
+//updates
+-Updated Forge from v10.13.0.1187 to v10.13.0.1191
+-Updated Ohairacaine Tweaks from v1.3 to v1.4
+-Updated Botania from v1.1-92 to v1.1-96
+-Updated AOBD from v2.2.1 to v2.2.2
+-Updated NEIAddons from v1.12.0.1 to v1.12.0.4
+-Updated Biomes O' Plenty from v2.1.0.943 to v2.1.0.953
+-Updated CoFH Core from v3.0.0B1-19 to v3.0.0B1-24
+-Updated CoFH Lib from v1.0.0B2-14 to v1.0.0B2-18
+-Updated Thermal Expansion from v4.0.0B1-3 to v4.0.0B1-9
+-Updated Thermal Foundation from v1.0.0B1-2 to v1.0.0B1-4
+-Updated Lycanite's Mobs from v1.7.1b to v1.7.3
+-Updated IronChests2 from v6.0.41.729 to v6.0.43.730
+-Updated Tinkers' Contruct from v_1.6.0d35 to v1.6.0d36
+-Updated Extra Utilities from v1.1.0e to v1.1.0f
+
+
+
+---------------------------------------------------------------------
+
 //changelog from v0.19b(1.7.2) to v0.20a_1.7.10
 
 //changes
