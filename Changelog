@@ -1,3 +1,49 @@
+//changes from v0.21a to v0.21b (1.7.10)
+
+//changes
+-Modified VeinMiner configs to match new file structure and formats.
+-Added Invar Tools & MFR Rubber Trees to VeinMiner.
+-Advanced Health Options health regen modified some. (may have been in previous version as well..)
+
+//removals
+-Removed Zombie Awareness
+-Removed CoroUtil
+
+//additions
+-Added BiblioWoods (Biomes O' Plenty) v1.6
+-Added BiblioWoods (Natura) v1.2
+-Added Deadly Worlds v1.0.2
+-Added EnviroMine v1.2.8
+-Added FlatSigns v2.0.0.17
+-Added Iguanas Tinker Tweaks v2.0.0
+-Added ObsidiPlates v3.0.0.18
+
+//updates
+-Updated AOBD from v2.2.2 to v2.2.3
+-Updated Baubles from v1.0.1.2 to v1.0.1.3
+-Updated Botania from v1.1-96 to v1.1-100
+-Updated Carpenter's Blocks from v3.2.5 to v3.2.6
+-Updated Chisel from v1.5.6 to v1.5.6a
+-Updated CoFH Core from v3.0.0B2-24 to v3.0.0B3-26
+-Updated CoFH Lib from v1.0.0B2-18 to v1.0.0B3-20
+-Updated Doomlike Dungeons from v1.3.2 to v1.4.0
+-Updated Extra Utilities from v1.1.0f to v1.1.0g
+-Updated Forge from v10.13.0.1191 to v10.13.0.1205
+-Updated Hardcore Endercore Ender Expansion from v1.6.2-pre to v1.6.2
+-Updated InfernalMobs
+-Updated Inventory Tweaks from v1.57-116 to v1.59-dev-152
+-Updated Lycanites' Mobs from v1.7.3 to v1.8.1d
+-Updated Minefactory Reloaded from v2.8.0RC1-540 to v2.8.0RC2-557
+-Updated ModTweaker from v0.5c to v0.5d
+-Updated Nether Ores from v2.3.0RC2-76 to v2.3.0RC3-84
+-Updated Ruins
+-Updated Thermal Expansion from v4.0.0B1-9 to  v4.0.0B3-11
+-Updated Thermal Foundation from v1.0.0B1-4 to v1.0.0B1-6
+-Updated Tinkers' Construct from v1.6.0d36 to v1.6.0d37
+-Updated VeinMiner from v0.17.0 to v0.20.0
+
+---------------------------------------------------------------------
+
 //changelog from v0.20a to v0.21a (1.7.10)
 
 //changes
