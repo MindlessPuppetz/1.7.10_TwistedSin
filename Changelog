@@ -1,3 +1,64 @@
+//changes from v0.21b to v0.21c
+
+//changes
+-Custom plank recipes added for Natura trees.
+-Tuned Lycanite Mob gen down some. More tweaks may be needed.
+
+//removals
+-Removed Journey Map
+
+//additions
+-Added Falling Meteors v2.13.1
+-Added MobiusCore v1.2.2a
+-Added Opis v1.2.2a
+-Added SpecialAI v1.0.1
+-Added StartingInventory v1.7.10.r01
+-Added Translocators v1.1.1.7
+
+//updates
+-Updated Advanced Health Options from v1.4.1.7 to v1.5.0.10
+-Updated Baubles from v1.0.1.3 to v1.0.1.5
+-Updated BiblioWoods[BiomesO'Plenty] from v1.6 to v1.7
+-Updated BiblioWoods[Natura] from v1.2 to v1.3
+-Updated Biomes O' Plenty from v2.1.0.953 to v2.1.0.977
+-Updated Botania from v1.1-100 to v1.2-104
+-Updated BspkrsCore from v6.13 to v6.14
+-Updated Chisel from v1.5.6a to v1.5.6b
+-Updated CodeChickenCore from v1.0.2.13 to v1.0.3.23
+-Updated CodeChickenLib from v1.1.1.96 to v1.1.1.101
+-Updated CoFH Core from v3.0.0B3-26 to v3.0.0B5-30.jar
+-Updated CoFH Lib from v1.0.0B3-20 to v1.0.0B4-24
+-Updated CopyCore from v1.2.0.3 to v1.4.0.5
+-Updated EnderStorage from v1.4.4.11 to v1.4.5.19
+-Updated EnviroMine from v1.2.8 to v1.2.17
+-Updated ExtraUtilities from v1.1.0g to v1.1.0i
+-Updated Forge from v10.13.0.1205 to v10.13.0.1207
+-Updated Iguanas Tinker Tweaks from v2.0.0 to v2.0.1B2
+-Updated InGameInfoXML from v2.8.0.58 to v2.8.0.61
+-Updated IronChests2 from v6.0.43.730 to v6.0.51.734
+-Updated KingCore from v3.3.2.18 to v3.4.2.19
+-Updated Lycanite's Mobs from v1.8.1d to v1.9.0
+-Updated Mine Tweaker 3 from v3.0.6 to v3.0.7
+-Updated NEI Addons from v1.12.0.4 to v1.12.2.9
+-Updated NotEnoughItems from v1.0.2.36 to v1.0.3.49
+-Updated OpenBlocks from v1.3-snapshot-424 to v1.3-snapshot-431
+-Updated OpenModsLib from v0.6-snapshot-220 to v0.6-snapshot-224
+-Updated RandomThings from v2.1.2 to v2.1.3
+-Updated Roguelike Dungeons from v1.3.4 to v1.3.5
+-Updated Spice of Life from v1.1.0 to v1.1.1
+-Updated Stackie from v1.5.0.27 to v1.5.1.28
+-Updated Thermal Expansion from v4.0.0B3-11 to v4.0.0B5-13
+-Updated Thermal Foundation from v1.0.0B1-6 to v1.0.0B3-8
+-Updated TiC Tooltips from v1.1.8a to v1.1.9
+-Updated Tinkers' Construct from v1.6.0d37 to v1.6.0d39
+-Updated VeinMiner from v0.20.0 to v0.21.0
+-Updated Waila from v1.5.3 to v1.5.3a
+
+
+
+---------------------------------------------------------------------
+
+
 //changes from v0.21a to v0.21b (1.7.10)
 
 //changes
