@@ -1,3 +1,58 @@
+//changes from v0.21c to v0.22a
+
+//changes
+-FastCraft (optional mod) can fix lag/slow loading issues for some players. Strongly suggest using this mod.
+
+//removals
+
+
+//additions
+-Added Dark Menagerie vBeta-1.0
+-Added FastCraft (Optional) v1.9
+-Added NEI Plugins (Unofficial) v1.1.0.8
+
+//updates
+-Updated AOBD from v2.2.3 to v2.2.4
+-Updated Applied Energistics 2 from rv0-stable-10 to rv1-beta-27
+-Updated Arcane Scrolls from v3.2.0.25 to v3.2.1.26
+-Updated Baubles from v1.0.1.5 to v1.0.1.7
+-Updated Biomes O' Plenty from v2.1.0.977 to v2.1.0.988
+-Updated Botania from v1.2-104 to v1.2-116
+-Updated Carpenter's Blocks from v3.2.6 to v3.2.7
+-Updated CodeChickenCore from v1.0.3.23 to v1.0.3.26
+-Updated CoFH Core from v3.0.0B5-30 to v3.0.0B6-32
+-Updated CoFH Lib from v1.0.0B4-24 to v1.0.0B6-26
+-Updated Ender Storage from v1.4.5.19 to v1.4.5.24
+-Updated EnviroMine from v1.2.17 to v1.2.23
+-Updated Extra Cells 2 from v2.1.6(rv0) to v2.1.11(rv1)
+-Updated ExtraUtilities from v1.1.0i to v1.1.0k
+-Updated Iguana Tweaks from v1.7.2-Beta-15 to v1.7.10-Beta-17
+-Updated Iguana's Tinker Tweaks from v2.0.1B2 to v2.0.4
+-Updated IronChests2 from v6.0.51.734 to v6.0.56.739
+-Updated Lycanite's Mobs from v1.9.0 to v1.9.1b
+-Updated Mantle from v0.3.0 to v0.3.1
+-Updated Mine & Blade - BattleGear 2 from v1.0.5.6 to v1.0.5.7
+-Updated Minefactory Reloaded from v2.8.0RC2-557 to v2.8.0RC3-591
+-Updated MineTweaker from v3.0.7 to v3.0.8B
+-Updated MobiusCore from v1.2.2a to v1.2.3
+-Updated NotEnoughItems from v1.0.3.49 to v1.0.3.56
+-Updated OpenBlocks from v1.3-snapshot-431 to v1.3-snapshot-433
+-Updated Opis from v1.2.2a to v1.2.3
+-Updated ProjectRed Base from v4.4.5.44 to v4.4.8.47
+-Updated ProjectRed Compat from v4.4.5.44 to v4.4.8.47
+-Updared ProjectRed Integration from v4.4.5.44 to v4.4.8.47
+-Updated Random Things from v2.1.3 to v2.1.4
+-Updated TiC Tooltips from v1.1.9 to v1.1.10
+-Updated Tinkers' Construct from v1.6.0d39 to v1.6.0d40.1
+-Updated Translocator from v1.1.1.7 to v1.1.1.12
+-Updated Waila Harvestability from v1.0.4 to v1.1.0
+
+
+
+---------------------------------------------------------------------
+
+
+
 //changes from v0.21b to v0.21c
 
 //changes
