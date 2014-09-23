@@ -1,3 +1,47 @@
+//changes from v0.22a to v0.22b
+
+//changes
+-Added Chisel blocks (not including connected textures as they do not work) to Microblocks
+-Enabled custom recipes for Balkon's Weaponmod
+-Fixed JABBA Barrel Hammer recipe conflict
+-Disabled TiC knapsacks to fix dupe glitch <TConstruct:knapsack> * 1
+-Raised Max Tool Level to 10 from 6.
+-Added Meteor Mod support to VeinMiner.
+-Added Iguana Tinker Tweaks saws (ardite, cobalt, manyullyn) to wood recipes.
+
+//removals
+-Removed ProjectRed (Base, Compat, & Integration)
+--Use RedNet instead.
+-Removed Ohairacaine Tweaks
+--No longer needed.
+
+//additions
+
+//updates
+-Updated Applied Energistics from rv1-beta-27 to rv1-stable-1
+-Updated BiblioCraft from v1.7.5 to v1.8.1
+-Updated BiblioWoods [BoP] from v1.7 to v1.8
+-Updated BiblioWoods [Natura] from v1.3 to v1.4
+-Updated Biomes O' Plenty from v2.1.0.988 to v2.1.0.991
+-Updated Chisel from v1.5.6b to v1.5.7
+-Updated FMPIntegration from v1.0 to v1.2.2
+-Updated Forge from v10.13.0.1207 to v10.13.1.1217
+-Updated Hardcore Ender Expansion from v1.6.2 to v1.6.3
+-Updated Iguana's Tinker Tweaks from v2.0.4 to v2.0.6
+-Updated InGame Info XML from v2.8.1.61 to v2.8.1.62
+-Updated Lucky Block from v5.0.0 to v5.1.0
+-Updated Lunatrius Core from v1.1.2.11 to v1.1.2.14
+-Updated Lycanite's Mobs from v1.9.1b to v.1.10.0c
+-Updated Mine & Blade - Battlegear 2 from v1.0.5.7 to v1.0.6.0
+-Updated TiC Tooltips from v1.1.10 to v1.1.11b
+-Updated Waila from v1.5.3a to v1.5.4a
+
+
+
+---------------------------------------------------------------------
+
+
+
 //changes from v0.21c to v0.22a
 
 //changes
