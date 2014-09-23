@@ -1,3 +1,15 @@
+//changes from v0.22b to v0.22c
+
+//changes
+-Downgraded Forge from .1217 to .1207 to fix crash issue with ForgeMultiPart
+
+
+
+
+---------------------------------------------------------------------
+
+
+
 //changes from v0.22a to v0.22b
 
 //changes
