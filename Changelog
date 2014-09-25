@@ -1,3 +1,43 @@
+//changes from v0.22d to v0.22e
+
+//changes
+-Disabled Wheat to Wheat Flour recipe in Natura
+-Lowered Zephyr spawn amount
+-Lowered Afrit spawn amount
+-Added Pear and Plum juice recipes
+-Disabled Lycanite's Mob Events til I can properly test/configure, it is a bit aggressive currently
+-Pam's HC update adds in MFR compat! YAY!
+
+//removals
+
+//additions
+-Added AppleCore v1.0.0 (Dependency of Spice of Life as of latest update)
+
+//updates
+-Updated Botania from v1.2-116 to v1.2-117
+-Updated Carpenter's Blocks from v3.2.7 to v3.3.0
+-Updated Pam's Harvestcraft from v1.7.10a to 1.7.10b
+-Updated Spice of Life from v1.1.1 to v1.2.1
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+//changes from v0.22c to v0.22d
+
+//changes
+-Downgraded Iguana's Tinker Tweaks from v2.0.6 to v2.0.4 to fix crash issue with Tinkers Construct
+
+
+
+
+---------------------------------------------------------------------
+
+
+
 //changes from v0.22b to v0.22c
 
 //changes
